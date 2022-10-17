@@ -28,12 +28,7 @@ console.log(window.document)
 
 
 
-let greeter = "hey there";
-if (greeter) {
-  let greeter = "Hola Amigo!";
-  console.log(greeter)
-}
-console.log(greeter)
+
 
 
 
